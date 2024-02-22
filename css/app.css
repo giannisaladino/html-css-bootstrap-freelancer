@@ -18,3 +18,22 @@ header .col-4 a {
     font-size: 13px;
     font-weight: 800;
 }
+
+.hero {
+    background-color: #1ABC9D;
+    color: white;
+}
+
+
+.hero .col-12 img {
+    width: 200px;
+}
+
+.portfolio .col-12 img {
+    width: 100%;
+}
+
+.about {
+    background-color: #1ABC9D;
+    color: white;
+}
