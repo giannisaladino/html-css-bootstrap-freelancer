@@ -1,0 +1,20 @@
+a {
+    text-decoration: none;
+    color: currentColor;
+}
+
+ul {
+    list-style: none;
+}
+
+/* style */
+
+header {
+    background-color: #2C3F50;
+    color: white;
+}
+
+header .col-4 a {
+    font-size: 13px;
+    font-weight: 800;
+}
